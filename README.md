@@ -34,4 +34,3 @@ Supports multiple users, live messaging, chat rooms, timestamps, avatars, and a 
 | Backend | Node.js, Express |
 | Real-time | Socket.io |
 | Deployment | Render / Railway / Localhost |
-
