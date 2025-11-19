@@ -6,14 +6,6 @@ Perfect for beginners learning real-time web applications.
 
 ---
 
-## 📸 Screenshot
-
-> *(Replace the link below with your own uploaded screenshot RAW URL)*
-
-![Chat App Screenshot](https://raw.githubusercontent.com/pavithraB-wec/basic-chat-app/main/assets/chat-ui.png)
-
----
-
 ## 🚀 Features
 
 - ⚡ Real-time chat using Socket.io  
