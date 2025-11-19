@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Fancy Chat</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <div id="profile">
+          <!-- default avatar uses your uploaded screenshot path as fallback -->
+          <img
+            id="myAvatar"
+            src="/mnt/data/Screenshot 2025-11-19 192500.png"
+            alt="avatar"
+            width="60"
+            height="60"
+          />
+          <div class="profile-info">
+            <div id="myName">Anonymous</div>
+            <input id="nameInput" placeholder="Enter name (e.g. pavi)" />
+            <input id="avatarInput" type="file" accept="image/*" />
+            <button id="joinBtn">Join</button>
+          </div>
+        </div>
+
+        <h4>Rooms</h4>
+        <div class="rooms">
+          <button class="roomBtn" data-room="general">general</button>
+          <button class="roomBtn" data-room="projects">projects</button>
+          <button class="roomBtn" data-room="friends">friends</button>
+        </div>
+
+        <h4>Online</h4>
+        <ul id="userList"></ul>
+      </aside>
+
+      <main class="chat">
+        <header id="roomHeader">Room: general</header>
+        <div id="messages" class="messages"></div>
+
+        <div class="composer">
+          <input id="msgInput" placeholder="Type a message..." />
+          <button id="sendBtn">Send</button>
+        </div>
+      </main>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="client.js"></script>
+  </body>
+</html>
