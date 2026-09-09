@@ -90,3 +90,6 @@ name
 Click Join.
 
 Now send messages between them.
+
+<img width="1536" height="1024" alt="3366d82d-0949-45aa-98c6-1a9804c0410d" src="https://github.com/user-attachments/assets/69f94a6a-697c-405c-be33-bb6bbdfde0c2" />
+<img width="1536" height="1024" alt="1295efd9-c235-4311-9972-84bfdc92398d" src="https://github.com/user-attachments/assets/94ff4882-faf6-4355-9350-a1764fa70c22" />
