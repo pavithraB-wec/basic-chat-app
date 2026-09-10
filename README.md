@@ -92,5 +92,9 @@ Click Join.
 Now send messages between them.
 
 <img width="1536" height="1024" alt="3366d82d-0949-45aa-98c6-1a9804c0410d" src="https://github.com/user-attachments/assets/69f94a6a-697c-405c-be33-bb6bbdfde0c2" />
+
 <img width="1536" height="1024" alt="1295efd9-c235-4311-9972-84bfdc92398d" src="https://github.com/user-attachments/assets/94ff4882-faf6-4355-9350-a1764fa70c22" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/be63382c-425f-445d-b544-e87bb1af5bf8" />
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aabf8af8-85a8-4a1b-9ed3-72faf86d53e5" />
