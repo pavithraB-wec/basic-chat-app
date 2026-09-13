@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="afd95f5a-72a3-4c0d-b1fc-5cac1393eae9" src="https://github.com/user-attachments/assets/2d75862c-5228-4338-956a-810325da6279" />
+
 # 💬Chat Application
 
 A beautiful, modern, real-time chat application built using **Node.js**, **Express**, and **Socket.io**.  
@@ -98,3 +100,11 @@ Now send messages between them.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/be63382c-425f-445d-b544-e87bb1af5bf8" />
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aabf8af8-85a8-4a1b-9ed3-72faf86d53e5" />
+
+<img width="1536" height="1024" alt="dc987876-48ed-4a67-995e-3f375a370012" src="https://github.com/user-attachments/assets/dbc0d6eb-75d9-4e62-81da-c0bdd35667e1" />
+
+<img width="1536" height="1024" alt="ac463e5e-df37-4d1b-97e6-9f51a45c6996" src="https://github.com/user-attachments/assets/78c57be1-69ff-4f13-8263-1a2b8e633a31" />
+
+<img width="1536" height="1024" alt="7ca8caee-5120-4006-a479-60aa23344070" src="https://github.com/user-attachments/assets/1efccd80-a58f-4dcc-95f6-36785305abc2" />
+
+<img width="1536" height="1024" alt="5e0f8546-37cc-4309-8b9a-097048de5aa7" src="https://github.com/user-attachments/assets/c821adc5-f8c7-4eff-908d-4c4d5f5d15d3" />
