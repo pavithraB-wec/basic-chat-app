@@ -5,6 +5,9 @@
 A beautiful, modern, real-time chat application built using **Node.js**, **Express**, and **Socket.io**.  
 Supports multiple users, live messaging, chat rooms, timestamps, avatars, and a gradient UI inspired by modern messaging apps.
 
+## live link
+
+https://basic-chat-app-1-fyz9.onrender.com
 ---
 
 ## 📸 Chat App Preview
